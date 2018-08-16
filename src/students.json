@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Gandalf",
+        "favoriteSubject": "Charms"
+    },
+    {
+        "id": 2,
+        "name": "Jaymes",
+        "favoriteSubject": "Transfiguration"
+    },
+    {
+        "id": 3,
+        "name": "Andia",
+        "favoriteSubject": "Coding"
+    }
+]
